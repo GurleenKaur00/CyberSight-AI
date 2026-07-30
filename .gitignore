@@ -19,9 +19,6 @@ data/processed/
 # Large Power BI source
 powerbi/network_traffic_dashboard.csv
 
-# Ignore only the large model
-models/cybersight_rf_multiclass.pkl
-
 # OS
 .DS_Store
 Thumbs.db
