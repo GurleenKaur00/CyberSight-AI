@@ -1,0 +1,8 @@
+Model,Accuracy,Precision,Recall,Weighted F1
+Logistic Regression,55.67,40.92,55.67,42.91
+Decision Tree,81.07,81.17,81.07,80.75
+Random Forest,82.85,82.98,82.85,82.03
+XGBoost,83.38,83.39,83.38,81.4
+Random Forest (Tuned),82.66,82.7,82.66,81.72
+XGBoost (Tuned),83.27,83.11,83.27,81.26
+Random Forest (Balanced),79.5,85.01,79.5,81.61

@@ -1,0 +1,11 @@
+Attack Category,F1 Score
+Generic,0.987
+Normal,0.93
+Reconnaissance,0.842
+Exploits,0.72
+Shellcode,0.656
+Fuzzers,0.651
+Worms,0.392
+DoS,0.264
+Analysis,0.193
+Backdoor,0.183

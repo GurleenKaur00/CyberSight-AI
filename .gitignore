@@ -1,0 +1,27 @@
+# Virtual Environment
+CyberAI/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw & Processed Data
+data/raw/
+data/processed/
+
+# Large Power BI source
+powerbi/network_traffic_dashboard.csv
+
+# Ignore only the large model
+models/cybersight_rf_multiclass.pkl
+
+# OS
+.DS_Store
+Thumbs.db
