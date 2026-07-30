@@ -327,7 +327,7 @@ The analysis included:
 - Correlation analysis helped identify relationships between network attributes.
 
 ---
-# ⚙️ Feature Engineering
+#  Feature Engineering
 
 Feature engineering was performed to prepare the dataset for machine learning.
 
@@ -412,7 +412,7 @@ SQL was used to analyze network traffic and generate cybersecurity insights from
 - Traffic summary statistics
 
 <p align="center">
-<img src="images/attackpercentagesql.png" width="950">
+<img src="images/sql1.png" width="950">
 </p>
 <p align="center">
 <img src="images/attackpercentage2sql.png" width="950">
