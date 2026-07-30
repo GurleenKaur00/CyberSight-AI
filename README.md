@@ -12,7 +12,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Application-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-<a href="YOUR_STREAMLIT_LINK">
+<a href="https://cybersight-ai-gurleen.streamlit.app/">
 <img src="https://img.shields.io/badge/Live_Demo-Open_Streamlit_App-red?style=for-the-badge">
 </a>
 
